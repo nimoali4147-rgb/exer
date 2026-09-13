@@ -4,13 +4,11 @@ p{
 }
 
 .favs {
-    color: blueviolet;
+    color: cyan;
 }
 
 #nam {
-    color: navy;
-    font-size: 24px;
-    font-weight: bold;
+    color: greenyellow;
 }
 
 #env {
