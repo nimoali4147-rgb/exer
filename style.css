@@ -1,0 +1,28 @@
+#my {
+color: blueviolet;
+font-size: 18px;
+font-family: arial;
+}
+
+.fav {
+    font-weight: bold;
+   font-family: monospace;
+   color: azure;
+
+}
+
+#atom {
+    background-color: black;
+}
+
+#thin {
+    background-color: blue;
+}
+
+#hab {
+background-color: blueviolet;
+}
+
+#win {
+background-color: darkred;
+}
